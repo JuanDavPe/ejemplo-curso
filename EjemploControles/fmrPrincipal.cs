@@ -14,6 +14,7 @@ namespace EjemploControles
     {
         public fmrPrincipal()
         {
+            //le agrego un comentario
             InitializeComponent();
         }
 
